@@ -46,7 +46,8 @@ Upon receiving a message, the application handles end-to-end processing:
 
 ## 💻 How to Run
 
-To start the PGP Simulation application, simply execute the main script from the root directory of the project:
-
+Open your terminal in the root directory of the project and run the following commands:
 ```bash
+pip install -r installed_libs.txt
+
 python main.py
